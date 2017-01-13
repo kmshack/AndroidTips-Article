@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Android Tips Article
 
-You can use the [editor on GitHub](https://github.com/kmshack/AndroidTips-Article-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Layout
+  https://possiblemobile.com/2013/05/layout-inflation-as-intended
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### View
+  https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.5h0m94tqv
+  
+### Activity 
+  http://regularmotion.kr/fragment-transactions-and-activity-state-loss
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### InApp
+  http://dev.team-slogup.net/android-in-app-billing/
+  http://rammuking.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9D%B8%EC%95%B1-%EA%B2%B0%EC%A0%9C-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Accessibility Services
+  http://vinsol.com/blog/2016/07/07/custom-accessibility-services
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmshack/AndroidTips-Article-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
