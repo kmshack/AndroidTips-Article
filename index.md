@@ -1,6 +1,3 @@
-## Android Tips Article
-
-
 ### Layout
   [https://possiblemobile.com/2013/05/layout-inflation-as-intended](https://possiblemobile.com/2013/05/layout-inflation-as-intended)
   [https://realm.io/kr/news/constraintlayout-it-can-do-what-now/](https://realm.io/kr/news/constraintlayout-it-can-do-what-now/)
