@@ -52,7 +52,7 @@
 ### Library
   [Volley를 더 쉽고 강력하게, Volley Extensions](http://d2.naver.com/helloworld/1258547)
   
-  [Volley 설명](https://gist.github.com/benelog/5981448)
+  [Volley 설명](https://gist.github.com/benelog/5981448)
 
 
 <br/><br/>
