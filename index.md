@@ -2,7 +2,6 @@
 ### Layout
   [Layout Inflation as Intended](https://possiblemobile.com/2013/05/layout-inflation-as-intended)
   [FlexboxLayout Tutorial with Example](http://www.viralandroid.com/2016/05/android-flexboxlayout-tutorial-with-example.html)
-  
   [ConstraintLayout 개념과 사용법 정복하기 - 개발자 직강](https://realm.io/kr/news/constraintlayout-it-can-do-what-now)
  
 
@@ -11,7 +10,7 @@
   [Android: Bottom sheet](https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.5h0m94tqv)
 
 
-##   
+   
 ### Animation
   [Spring Animation](http://evgenii.com/blog/spring-button-animation-on-android/)
   [Android Property Animation — The ValueAnimator](https://blog.mindorks.com/android-property-animation-the-valueanimator-4ca173567cdb#.xx8xolr3m)
