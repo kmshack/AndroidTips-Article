@@ -10,6 +10,8 @@
 <br/><br/>
 ### View
   [Android: Bottom sheet](https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.5h0m94tqv)
+  
+  [ViewPager without Fragments](http://www.ottodroid.net/?p=523)
 
 
 <br/><br/>
@@ -74,7 +76,10 @@
   
   [Developing for Android I
 Understanding the Mobile Context](https://medium.com/google-developers/developing-for-android-i-understanding-the-mobile-context-fd2351b131f8#.70iicva1k)
+
+  [400% faster layouts with Anko](https://android.jlelse.eu/400-faster-layouts-with-anko-da17f32c45dd#.mx6tr7b4t)
   
+  [Quick Settings Tiles on Android 7.0](https://medium.com/google-developers/quick-settings-tiles-e3c22daf93a8#.9rxwo71wf)
  
  
 <br/><br/>
