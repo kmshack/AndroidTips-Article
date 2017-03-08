@@ -17,8 +17,12 @@
   [Spring Animation](http://evgenii.com/blog/spring-button-animation-on-android/)
   
   [Android Property Animation — The ValueAnimator](https://blog.mindorks.com/android-property-animation-the-valueanimator-4ca173567cdb#.xx8xolr3m)
+  
+  [How to use Material Transitions in Fragment Transactions](https://medium.com/bynder-tech/how-to-use-material-transitions-in-fragment-transactions-5a62b9d0b26b#.ipgdxnnwc)
+  
 
-
+  
+  
 <br/><br/>
 ### VectorDrawable
   [VectorDrawable 대응 정리](http://pluu.github.io/blog/android/2016/04/11/android-vector/)
@@ -54,12 +58,23 @@
   
   [Volley 설명](https://gist.github.com/benelog/5981448)
 
+  
 
+<br/><br/>
+### Test
+  [Getting Started with Testing in Android Part II](https://medium.com/@biratkirat/getting-started-with-testing-in-android-part-ii-7bf28292876a#.ajpg9828t)
+  
+  
+  
 <br/><br/>
 ### Advanced 
   [안드로이드 스레드와 백그라운드 태스크 이해하기: 실제 앱 예제와 함께](https://realm.io/kr/news/android-threading-background-tasks/)
   
   [인스타그램이 React Native로 앱을 만든 과정](https://taegon.kim/archives/5745)
+  
+  [Developing for Android I
+Understanding the Mobile Context](https://medium.com/google-developers/developing-for-android-i-understanding-the-mobile-context-fd2351b131f8#.70iicva1k)
+  
  
  
 <br/><br/>
