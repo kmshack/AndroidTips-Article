@@ -35,6 +35,8 @@
   [Fragment Transactions & Activity State Loss](http://regularmotion.kr/fragment-transactions-and-activity-state-loss)
   
   [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
+  
+  [Splash screen in Android: The right way](https://android.jlelse.eu/launch-screen-in-android-the-right-way-aca7e8c31f52#.3h70ye5ha)
 
 
 <br/><br/>
