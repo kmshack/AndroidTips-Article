@@ -82,6 +82,8 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [400% faster layouts with Anko](https://android.jlelse.eu/400-faster-layouts-with-anko-da17f32c45dd#.mx6tr7b4t)
   
   [Quick Settings Tiles on Android 7.0](https://medium.com/google-developers/quick-settings-tiles-e3c22daf93a8#.9rxwo71wf)
+  
+  [Exploring Firebase on Android: Dynamic Links](https://medium.com/exploring-android/exploring-firebase-on-android-dynamic-links-7364def74808#.ogeghmn5e)
  
  
 <br/><br/>
