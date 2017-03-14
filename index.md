@@ -19,7 +19,7 @@
   [Spring Animation](http://evgenii.com/blog/spring-button-animation-on-android/)
   
   [Android Property Animation — The ValueAnimator](https://blog.mindorks.com/android-property-animation-the-valueanimator-4ca173567cdb#.xx8xolr3m)
-  
+  
   [How to use Material Transitions in Fragment Transactions](https://medium.com/bynder-tech/how-to-use-material-transitions-in-fragment-transactions-5a62b9d0b26b#.ipgdxnnwc)
   
 
