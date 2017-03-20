@@ -7,6 +7,8 @@
   [ConstraintLayout 개념과 사용법 정복하기 - 개발자 직강](https://realm.io/kr/news/constraintlayout-it-can-do-what-now)
   
   [Unboxing the FlexboxLayout](https://blog.devcenter.co/unboxing-the-flexboxlayout-a7cfd125f023#.8rz86dukz)
+  
+  [Android UI 멋지게 만들기: 예제로 배우는 팁과 노하우](https://realm.io/kr/news/gotocph-israel-ferrer-camacho-android-ui)
  
 
 <br/><br/>
