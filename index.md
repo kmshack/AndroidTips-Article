@@ -90,6 +90,8 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [Quick Settings Tiles on Android 7.0](https://medium.com/google-developers/quick-settings-tiles-e3c22daf93a8#.9rxwo71wf)
   
   [Exploring Firebase on Android: Dynamic Links](https://medium.com/exploring-android/exploring-firebase-on-android-dynamic-links-7364def74808#.ogeghmn5e)
+  
+  [Memory Leak Patterns in Android](https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570#.rugihfwb8)
  
  
 <br/><br/>
