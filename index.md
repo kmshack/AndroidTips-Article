@@ -94,6 +94,8 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [Memory Leak Patterns in Android](https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570#.rugihfwb8)
   
   [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.e6xkbdw0b)
+  
+  [MVP and RxJava](https://lorentzos.com/mvp-and-rxjava-9dfcbe79bf77#.l8fdp0hpt)
  
  
 <br/><br/>
