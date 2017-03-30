@@ -96,6 +96,6 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.e6xkbdw0b)
   
   [MVP and RxJava](https://lorentzos.com/mvp-and-rxjava-9dfcbe79bf77#.l8fdp0hpt)
- 
+  [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
  
 <br/><br/>
