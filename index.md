@@ -98,5 +98,7 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [MVP and RxJava](https://lorentzos.com/mvp-and-rxjava-9dfcbe79bf77#.l8fdp0hpt)
   
   [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
+  
+  [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
  
 <br/><br/>
