@@ -26,6 +26,8 @@
   
   [How to use Material Transitions in Fragment Transactions](https://medium.com/bynder-tech/how-to-use-material-transitions-in-fragment-transactions-5a62b9d0b26b#.ipgdxnnwc)
   
+  [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6)
+  
 
   
   
