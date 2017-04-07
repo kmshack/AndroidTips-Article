@@ -102,5 +102,7 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
   
   [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
+  
+  [Easy Job Scheduling with Android-Job](https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742)
  
 <br/><br/>
