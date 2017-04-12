@@ -30,7 +30,6 @@
   
 
   
-  
 <br/><br/>
 ### VectorDrawable
   [VectorDrawable 대응 정리](http://pluu.github.io/blog/android/2016/04/11/android-vector/)
@@ -69,14 +68,22 @@
   [Volley 설명](https://gist.github.com/benelog/5981448)
 
   
+  
+    
+  <br/><br/>
+### Architecture
+  [Android Application Architecture](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65)
+  
+  
+  
 
 <br/><br/>
 ### Test
   [Getting Started with Testing in Android Part II](https://medium.com/@biratkirat/getting-started-with-testing-in-android-part-ii-7bf28292876a#.ajpg9828t)
   
   [프로페셔널 안드로이드 개발자를 위한 도구 소개: 내부 테스트와 분석부터 상용화까지](https://realm.io/kr/news/mobilization-gautier-mechling-the-2016-android-developer-toolbox/)
-  
-  
+ 
+ 
   
 <br/><br/>
 ### Advanced 
