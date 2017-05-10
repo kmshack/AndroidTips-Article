@@ -114,5 +114,7 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [Easy Job Scheduling with Android-Job](https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742)
   
   [Android Data Binding](https://android.jlelse.eu/android-data-binding-8d0eb34b9bad)
+  
+  [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
  
 <br/><br/>
