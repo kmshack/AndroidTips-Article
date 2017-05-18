@@ -116,5 +116,9 @@ Understanding the Mobile Context](https://medium.com/google-developers/developin
   [Android Data Binding](https://android.jlelse.eu/android-data-binding-8d0eb34b9bad)
   
   [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
+  
+  [Lifecycle Aware Data Loading with Architecture Components](https://medium.com/@ianhlake/lifecycle-aware-data-loading-with-android-architecture-components-f95484159de4)
+  
+  
  
 <br/><br/>
